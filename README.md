@@ -18,6 +18,14 @@ The game continues until the player decides to stop.
 - Displays the winner for each round.
 - Simple, responsive design.
 
+## Screenshots
+
+Here are some screenshots of the game:
+
+![Screenshot 1](https://github.com/sharmilashaik218/rock-paper-scissors-JavaScript/blob/main/Screenshot%202025-01-30%20062342.png)
+![Screenshot 2](https://github.com/sharmilashaik218/rock-paper-scissors-JavaScript/blob/main/Screenshot%202025-01-30%20062351.png)
+
+
 ## Installation
 
 1. Clone the repository to your local machine:
